@@ -1,0 +1,11 @@
+{
+    "links": {
+      "about": "About",
+      "blog": "Blog",
+      "services": "Services",
+      "testimony": "Testimony",
+      "faq": "FAQ",
+      "contact": "Contact",
+      "case-studies":"case-studies"
+    }
+  }

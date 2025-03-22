@@ -1,0 +1,45 @@
+{
+    "testimonialHeading": "What Our Clients Say",
+    "testimonialSubheading": "Don't just take our word for it. Here's what our clients have to say about working with us.",
+    "testimonials": [
+      {
+        "name": "Sara",
+        "position": "Manager of Getfam Hotel",
+        "content": "Working with Hulu has been transformative.",
+        "avatar": "https://th.bing.com/th/id/R.90891a7a1903b9c2dc424c3e629268d0?rik=jNtCh7lPz0Ce%2bw&pid=ImgRaw&r=0?height=80&width=80",
+        "rating": 5
+      },
+      {
+        "name": "G/Siyum",
+        "position": " HR ",
+        "content": "Innovative solutions that transformed our business!",
+        "avatar": "https://th.bing.com/th/id/OIP.dsnh3cIuvWiJnv314PEQwAHaHa?rs=1&pid=ImgDetMain?height=80&width=80",
+        "rating": 5
+      }
+      ,
+      {
+        "name": "Z G/tsadik",
+        "position": "Manager",
+        "content": "An exceptional stay with outstanding service and comfort!.",
+        "avatar": "/placeholder.svg?height=80&width=80",
+        "rating": 5
+      }
+      ,
+      {
+        "name": "Helen ",
+        "position": "owner of Tech ",
+        "content": "The platform the buled helped me land my dream job quickly!",
+        "avatar": "https://th.bing.com/th/id/OIP.wa2wnW7AdVC6Ik7yoGsoqwHaHa?rs=1&pid=ImgDetMain?height=80&width=80",
+        "rating": 5
+      }
+      ,
+      {
+        "name": "Abrham",
+        "position": "CTO, FinEdge",
+        "content": "The platform the buled helped me land my dream job quickly!",
+        "avatar": "https://th.bing.com/th/id/OIF.j7aZSGSBayehUw3SNx2a4g?rs=1&pid=ImgDetMain?height=80&width=80",
+        "rating": 5
+      }
+    ]
+  }
+  

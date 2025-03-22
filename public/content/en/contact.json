@@ -1,0 +1,16 @@
+{
+    "title": "Contact Us",
+    "description": "Get in touch with our team to discuss how we can help your business.",
+    "formTitle": "Send Us a Message",
+    "formDescription": "Fill out the form below and we'll get back to you as soon as possible.",
+    "nameLabel": "Name",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "subjectLabel": "Subject",
+    "messageLabel": "Message",
+    "sendButton": "Send Message",
+    "emailInfo": "Email",
+    "phoneInfo": "Phone",
+    "addressInfo": "Address",
+    "address": " Legehar Amhara Bank Head ofice 1st floar room number 112"
+  }

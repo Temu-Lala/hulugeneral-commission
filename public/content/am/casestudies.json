@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "title": "ኢኮሜርስ ድር ስራ ለሽያጭ",
+      "description": "በመጀመሪያዎቹ ስድስት ወራት ውስጥ የመስመር ላይ ሽያጣቸውን በ200% በመጨመር ለችርቻሮ ደንበኛ ብጁ የኢ-ኮሜርስ መድረክ አዘጋጅተናል።",
+      "imageSrc": "https://img.freepik.com/free-vector/isometric-e-commerce-shopping-set_1284-21618.jpg?t=st=1742030086~exp=1742033686~hmac=fa919641c3d84bd0d6651024c6a64d336c7c5fd2e6a4c6b028ae63acc43074bf&w=826"
+    },
+    {
+      "id": 2,
+      "title": "ስልክ መተግበሪያ ለፊተኛ እና ለሁሉም የስምንት እንቅስቃሴ ምርመራ",
+      "description": "ቡድናችን በመጀመሪያው አመት ከ100,000 በላይ ማውረዶችን በማድረግ ተጠቃሚዎች የአካል ብቃት ግባቸውን እንዲከታተሉ የሚያግዝ የሞባይል መድረክ አቋራጭ መተግበሪያ ገንብቷል።",
+      "imageSrc": "https://img.freepik.com/free-vector/personalized-workouts-concept-illustration_114360-7451.jpg?t=st=1742030148~exp=1742033748~hmac=973f006b16cb695866e693fdd1f7cf0a6e12b7539caac80efcf2721071ee755b&w=826"
+    },
+    {
+      "id": 3,
+      "title": "UI/UX ዳግም ዲዛይን ለSaaS መድረክ",
+      "description": "የተጠቃሚ በይነገጽን እና ልምድን ለSaaS ፕላትፎርም ቀይረነዋል፣ ይህም የተጠቃሚ ተሳትፎ 50% ጭማሪ አስገኝቷል።",
+      "imageSrc": "https://img.freepik.com/free-vector/gradient-colored-ui-ux-background_52683-70005.jpg?t=st=1742030198~exp=1742033798~hmac=533add5834b0b15d9a5e0e3fee17ea61924d3a76c6c4502742d2ea752ad59746&w=1380"
+    }
+  ]
+  

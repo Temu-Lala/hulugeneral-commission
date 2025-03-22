@@ -1,0 +1,37 @@
+{
+  "sectionTitle": "አገልግሎቶቻችን",
+  "sectionDescription": "ንግድዎን በዲጂታል ዘመን እንዲያድግ ለመርዳት ሁሉን አቀፍ አገልግሎቶችን እንሰጣለን።",
+  "viewAllText": "ሁሉንም አገልግሎቶች ይመልከቱ",
+  "services": [
+    {
+      "title": "አጠቃላይ የኮሚሽኑ ሥራ",
+      "description": "ሁሉ አጠቃላይ ኮሚሽን በዋነኛነት በኮሚሽን ላይ የተመሰረተ የስራ ሞዴል ላይ የሚሰራ ዘመናዊ እና ተለዋዋጭ የአገልግሎት መድረክ ነው",
+      "imageSrc": "https://img.freepik.com/free-vector/international-trade-concept-illustration_114360-9661.jpg?t=st=1742027809~exp=1742031409~hmac=c1d950dbf29000c495709986be101d1ec5fe8566b071cf2c3496ce7a03951c2d&w=826",
+      "hoverImageSrc": "https://img.freepik.com/free-vector/international-trade-concept-illustration_114360-9661.jpg?t=st=1742027809~exp=1742031409~hmac=c1d950dbf29000c495709986be101d1ec5fe8566b071cf2c3496ce7a03951c2d&w=826"
+    },
+    {
+      "title": "ድህረገፅ",
+      "description": "በድህረገፅ ላይ መገኘትዎን ለማረጋገጥ ብጁ የድር ጣቢያ ዲዛይን እና ልማት",
+      "imageSrc": "https://img.freepik.com/free-vector/flat-d-isometric-web-development-infographics-concept_126523-1540.jpg?t=st=1742028084~exp=1742031684~hmac=ad770f4a6bdf6ab4235c41ababe985e2b3df1e4bf2fea8023ea949721eee7919&w=826",
+      "hoverImageSrc": "https://img.freepik.com/free-vector/flat-d-isometric-web-development-infographics-concept_126523-1540.jpg?t=st=1742028084~exp=1742031684~hmac=ad770f4a6bdf6ab4235c41ababe985e2b3df1e4bf2fea8023ea949721eee7919&w=826"
+    },
+    {
+      "title": "ዲጂታል ማርኬቲንግ",
+      "description": "ስራዎ በአለም አቀፍ ደረጃ እንዲታዩ እና ተጨማሪ የደንበኛ እገዛን ለማግኘት ።",
+      "imageSrc": "https://img.freepik.com/free-vector/facebook-post-illustration-notifications_23-2149024883.jpg?t=st=1742028565~exp=1742032165~hmac=f9f65f376fbb26beb0cf175d372222abaf0b5fe76bb12ee568d1d9d9a11630d2&w=826",
+      "hoverImageSrc": "https://img.freepik.com/free-vector/facebook-post-illustration-notifications_23-2149024883.jpg?t=st=1742028565~exp=1742032165~hmac=f9f65f376fbb26beb0cf175d372222abaf0b5fe76bb12ee568d1d9d9a11630d2&w=826"
+    },
+    {
+      "title": "የሞባይል መተግበሪያ ልማት",
+      "description": "ለአይኦኤስ እና አንድሮይድ  አዳዲስ የሞባይል መተግበሪያዎችን መፍጠር።",
+      "imageSrc": "https://img.freepik.com/free-vector/source-code-concept-illustration_114360-5487.jpg?t=st=1742028445~exp=1742032045~hmac=cc169621ea173e9523783018f432af05a194e05b466aff324d1ba6c14772315f&w=826",
+      "hoverImageSrc": "https://img.freepik.com/free-vector/source-code-concept-illustration_114360-5487.jpg?t=st=1742028445~exp=1742032045~hmac=cc169621ea173e9523783018f432af05a194e05b466aff324d1ba6c14772315f&w=826"
+    },
+    {
+      "title": "ግራፊክ ዲዛይን",
+      "description": "ለብራንዲንግ፣ የግብይት ቁሶች እና ሌሎችም የፈጠራ ንድፍ መፍትሄዎች።",
+      "imageSrc": "https://img.freepik.com/free-vector/graphic-design-art-profession-theme_24877-63484.jpg?t=st=1742028697~exp=1742032297~hmac=64881368d5d6141c93526847e73e4d624ecab396e9f98ce3cfe1355a3ed8b6c9&w=740",
+      "hoverImageSrc": "https://img.freepik.com/free-vector/graphic-design-art-profession-theme_24877-63484.jpg?t=st=1742028697~exp=1742032297~hmac=64881368d5d6141c93526847e73e4d624ecab396e9f98ce3cfe1355a3ed8b6c9&w=740"
+    }
+  ]
+}

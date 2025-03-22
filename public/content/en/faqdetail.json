@@ -1,0 +1,44 @@
+{
+  "title": "Frequently Asked Questions",
+  "description": "Find answers to common questions about our services and processes.",
+  "faqs": [
+    {
+      "id": "1",
+      "question": "Where is Hulu General Commission located?",
+      "answer": "Hulu General Commission is located in Addis Ababa, Legehar, Amhara Bank Building, 1st Floor, Room 112."
+    },
+    {"id": "2",
+      "question": "How does the payment work?",
+      "answer": "When you get a job, you pay 20% of your first salary. For other services, payment is made through agreements."
+    },
+    {"id": "3",
+      "question": "How much commission do you accept?",
+      "answer": "We only take a one-time commission of 20% from your first salary."
+    },
+    {"id": "4",
+      "question": "Do you take commissions every month?",
+      "answer": "No, we only take the commission once."
+    },
+    {"id": "5",
+      "question": "Are you open every day, including Sunday?",
+      "answer": "No, we work 6 days a week, except Sunday, from 2:00 to 12:00."
+    },
+    {"id": "6",
+      "question": "Is Hulu General Commission a legal company?",
+      "answer": "Yes, of course, we are a legally registered company."
+    },
+    {
+      "id": "7",
+      "question": "What types of work do you provide?",
+      "answer": "We offer various services including:\n- Connecting job seekers\n- Buying and selling houses & cars\n- Website development\n- Software development\n- Desktop applications\n- AI & Machine Learning\n- Graphics design\n- UI/UX design\n- Social media management"
+    },
+    {"id": "8",
+      "question": "Do you have branches in other regions?",
+      "answer": "No, we only have one location in Addis Ababa, Legehar."
+    },
+    {"id": "9",
+      "question": "What are your working hours?",
+      "answer": "We work from 2:00 to 12:00, except on Sundays."
+    }
+  ]
+}

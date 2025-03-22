@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "The Future of Technology",
+      "description": "Exploring the latest trends in technology and how they will shape our future.",
+      "date": "October 10, 2023",
+      "image": "/images/blog1.jpg",
+      "author": "John Doe"
+    },
+    {
+      "id": "2",
+      "title": "Sustainable Living",
+      "description": "How to adopt sustainable practices in your daily life and reduce your carbon footprint.",
+      "date": "October 15, 2023",
+      "image": "/images/blog2.jpg",
+      "author": "Jane Smith"
+    },
+    {
+      "id": "3",
+      "title": "AI and Machine Learning",
+      "description": "Understanding the impact of AI and machine learning on various industries.",
+      "date": "October 20, 2023",
+      "image": "/images/blog3.jpg",
+      "author": "Alice Johnson"
+    }
+    ,
+    {
+      "id": "4",
+      "title": "AI and Machine Learning",
+      "description": "Understanding the impact of AI and machine learning on various industries.",
+      "date": "October 20, 2023",
+      "image": "/images/blog3.jpg",
+      "author": "Alice Johnson"
+    },
+    {
+      "id": "5",
+      "title": "AI and Machine Learning",
+      "description": "Understanding the impact of AI and machine learning on various industries.",
+      "date": "October 20, 2023",
+      "image": "/images/blog3.jpg",
+      "author": "Alice Johnson"
+    }
+  ]
+}

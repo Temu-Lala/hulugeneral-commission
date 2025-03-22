@@ -1,0 +1,41 @@
+{
+  "testimonialHeading": "የደንበኞቻችን ማስተማርያ",
+  "testimonialSubheading": "ሰዎች የሚሉትን ስለሆሉ ስለ ስራችን ይስማሙ።",
+  "testimonials": [
+    {
+      "name": "ሳራ",
+      "position": "የጌትፋም ሆቴል ሥራ አስኪያጅ",
+      "content": "ሁሉ ጋር መስራት ሕይወቴን ቀይሯል።",
+      "avatar": "https://th.bing.com/th/id/R.90891a7a1903b9c2dc424c3e629268d0?rik=jNtCh7lPz0Ce%2bw&pid=ImgRaw&r=0?height=80&width=80",
+      "rating": 5
+    },
+    {
+      "name": "ገ/ስዩም",
+      "position": " HR ",
+      "content": "የልማት መፍትሄዎች ስራችንን በሙሉ ለውጦታል!",
+      "avatar": "https://th.bing.com/th/id/OIP.dsnh3cIuvWiJnv314PEQwAHaHa?rs=1&pid=ImgDetMain?height=80&width=80",
+      "rating": 5
+    },
+    {
+      "name": "ዘ.ገ/ፃዲቅ",
+      "position": "ሥራ አስኪያጅ",
+      "content": "ድንቅ እና ምቹ የሆነ ማህደር እና ምርጥ አገልግሎት!",
+      "avatar": "/placeholder.svg?height=80&width=80",
+      "rating": 5
+    },
+    {
+      "name": "ሄሌን",
+      "position": "የቴክ ባለቤት",
+      "content": "ይህ መድረክ የምልምል ስራዬን በፍጥነት አግኝቶኛል!",
+      "avatar": "https://th.bing.com/th/id/OIP.wa2wnW7AdVC6Ik7yoGsoqwHaHa?rs=1&pid=ImgDetMain?height=80&width=80",
+      "rating": 5
+    },
+    {
+      "name": "አብርሃም",
+      "position": "CTO, FinEdge",
+      "content": "ይህ መድረክ የምልምል ስራዬን በፍጥነት አግኝቶኛል!",
+      "avatar": "https://th.bing.com/th/id/OIF.j7aZSGSBayehUw3SNx2a4g?rs=1&pid=ImgDetMain?height=80&width=80",
+      "rating": 5
+    }
+  ]
+}

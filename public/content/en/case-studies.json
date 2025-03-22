@@ -1,0 +1,39 @@
+{
+    "caseStudies": [
+      {
+        "title": "E-commerce Platform Redesign",
+        "description": "Increased conversion rates by 45% through UX improvements and performance optimization.",
+        "content": "A leading online retailer approached us to redesign their e-commerce platform to improve user experience and increase conversions. Our team conducted extensive user research, analyzed customer journeys, and identified key pain points in the existing platform. We implemented a complete redesign with a focus on simplified navigation, optimized product pages, and a streamlined checkout process. The result was a 45% increase in conversion rates and a 30% reduction in cart abandonment.",
+        "image": "/images/ecommerce-redesign.jpg",
+        "link": "/case-studies/ecommerce-redesign"
+      },
+      {
+        "title": "Mobile Banking App",
+        "description": "Developed a secure and user-friendly mobile banking application with biometric authentication.",
+        "content": "A regional bank needed a mobile banking application that would provide a secure and convenient way for customers to manage their accounts. We developed a comprehensive mobile banking solution with features including account management, fund transfers, bill payments, and mobile check deposits. Security was a top priority, so we implemented biometric authentication, encryption, and other security measures. The app received high ratings on app stores and led to a 60% increase in mobile banking adoption among the bank's customers.",
+        "image": "/images/mobile-banking.jpg",
+        "link": "/case-studies/mobile-banking"
+      },
+      {
+        "title": "Healthcare Management System",
+        "description": "Built a comprehensive system that improved patient care coordination by 60%.",
+        "content": "A healthcare provider was struggling with inefficient patient management processes that were affecting care quality. We developed an integrated healthcare management system that streamlined patient records, appointment scheduling, billing, and care coordination. The system included features for both healthcare providers and patients, with a focus on improving communication and information sharing. After implementation, the client reported a 60% improvement in care coordination and a 40% reduction in administrative time.",
+        "image": "/images/healthcare-system.jpg",
+        "link": "/case-studies/healthcare-system"
+      },
+      {
+        "title": "Supply Chain Optimization",
+        "description": "Implemented IoT solutions that reduced operational costs by 30% for a manufacturing client.",
+        "content": "A manufacturing company was facing challenges with supply chain visibility and efficiency. We implemented an IoT-based solution that provided real-time tracking of inventory, equipment, and shipments. The system included sensors, data analytics, and a dashboard for monitoring and managing the supply chain. This solution enabled the client to identify bottlenecks, optimize inventory levels, and improve logistics planning. As a result, they achieved a 30% reduction in operational costs and a 25% improvement in on-time deliveries.",
+        "image": "/images/supply-chain.jpg",
+        "link": "/case-studies/supply-chain"
+      },
+      {
+        "title": "Digital Marketing Campaign",
+        "description": "Executed a multi-channel campaign that generated 200% ROI for a retail client.",
+        "content": "A retail chain wanted to increase foot traffic and online sales through a coordinated digital marketing campaign. We developed a strategy that included SEO, PPC advertising, social media marketing, and email campaigns. The approach was data-driven, with continuous optimization based on performance metrics. The campaign targeted specific customer segments with personalized messaging and offers. The result was a 200% return on investment, with significant increases in both online and in-store sales.",
+        "image": "/images/marketing-campaign.jpg",
+        "link": "/case-studies/marketing-campaign"
+      }
+    ]
+  }

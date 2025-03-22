@@ -1,0 +1,21 @@
+{
+    "companyName": "Hulu General Commissions ",
+    "contactUsTitle": "Contact Us ",
+    "contactEmail": "hulugeneralcommission@gmail.com",
+    "phoneNumbers": [
+      { "number": "+251960380000", "label": "Phone 1 " },
+      { "number": "+251963959694", "label": "Phone 2" },
+      { "number": "+251967336700", "label": "Phone 3" },
+      { "number": "+251960380000", "label": "Phone 4 " }
+    ],
+    "socialLinks": [
+      { "link": "https://www.tiktok.com/@hulugeneralcommission?_t=ZM-8tkGXhB64Af&_r=1", "iconName": "FaTiktok" },
+      { "link": "https://www.facebook.com/share/18ZsZUFnRS/", "iconName": "FaFacebook" },
+      { "link": "https://t.me/hulugeneral", "iconName": "FaTelegram" },
+      { "link": "https://youtube.com/@hulugeneralcommission?si=kltEn5gY7jPingyp", "iconName": "FaYoutube" },
+      { "link": "https://www.instagram.com/hulugeneralcommission?igsh=YzExcWtxOHd0dTN1", "iconName": "FaInstagram" },
+      { "link": "https://twitter.com/hulugeneral", "iconName": "FaTwitter" }
+    ],
+    "copyrightText": "2025 Hulu General Commission ",
+    "rightsReservedText": "All rights reserved. "
+  }

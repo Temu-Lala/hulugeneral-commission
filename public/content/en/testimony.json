@@ -1,0 +1,60 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Abraham Gebremedhin",
+      "role": "Software Developer",
+      "comment": "Working with Hulu was incredibly beneficial. It helped showcase our skills and find great job opportunities.",
+      "image": "https://example.com/images/abraham.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Sara Meregna",
+      "role": "Hotel Manager",
+      "comment": "Hulu completely transformed our business. It helped us streamline operations and reach more customers.",
+      "image": "https://example.com/images/sara.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Yohannes Mekuria",
+      "role": "Freelancer",
+      "comment": "I'm really happy to have had the opportunity to connect with Hulu.",
+      "image": "https://example.com/images/yohannes.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Hana Assefa",
+      "role": "Graphic Designer",
+      "comment": "This platform has been a game-changer in showcasing my work in the best possible way.",
+      "image": "https://example.com/images/hana.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Zerman Getachew",
+      "role": "Technology Expert",
+      "comment": "Hulu's services are outstanding! I found many opportunities relevant to my field.",
+      "image": "https://example.com/images/zerman.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Tesfaye Belay",
+      "role": "HR Manager",
+      "comment": "The platform has been incredibly helpful in managing human resources efficiently.",
+      "image": "https://example.com/images/tesfaye.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Desta Ato",
+      "role": "Job Seeker",
+      "comment": "Hulu made job hunting much easier by connecting me with the right opportunities.",
+      "image": "https://example.com/images/desta.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Selam Mister",
+      "role": "Real Estate & Vehicle Seller",
+      "comment": "This platform provided the best way to showcase and sell my products.",
+      "image": "https://example.com/images/selam.jpg"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+    "title": "Our Services",
+    "description": "We offer a comprehensive range of technology services to help your business thrive in the digital age.",
+    "services": [
+      {
+        "id": "web-development",
+        "title": "Web Development",
+        "description": "Custom websites and web applications built with the latest technologies.",
+        "content": "Our web development services encompass everything from simple informational websites to complex web applications. We use modern frameworks and technologies to create responsive, fast, and secure web solutions that provide an exceptional user experience. Our development process includes thorough planning, design, development, testing, and deployment phases to ensure high-quality results.",
+        "features": [
+          "Custom website development",
+          "Web application development",
+          "E-commerce solutions",
+          "Content management systems",
+          "API development and integration"
+        ]
+      },
+      {
+        "id": "mobile-applications",
+        "title": "Mobile Applications",
+        "description": "Native and cross-platform mobile apps for iOS and Android.",
+        "content": "We develop high-performance mobile applications for iOS and Android platforms. Whether you need a native app for maximum performance or a cross-platform solution for broader reach, our team has the expertise to deliver. We focus on creating intuitive user interfaces, optimizing performance, and ensuring your app stands out in the crowded app marketplace.",
+        "features": [
+          "iOS app development",
+          "Android app development",
+          "Cross-platform development",
+          "Mobile app UI/UX design",
+          "App store optimization"
+        ]
+      },
+      {
+        "id": "ui-ux-design",
+        "title": "UI/UX Design",
+        "description": "User-centered design that enhances user experience and engagement.",
+        "content": "Our design team creates beautiful, functional interfaces that prioritize user experience. We follow a user-centered design approach, conducting research to understand your users' needs and preferences. Through wireframing, prototyping, and iterative design, we create interfaces that are not only visually appealing but also intuitive and easy to use.",
+        "features": [
+          "User research and personas",
+          "Wireframing and prototyping",
+          "Visual design",
+          "Interaction design",
+          "Usability testing"
+        ]
+      },
+      {
+        "id": "digital-marketing",
+        "title": "Digital Marketing",
+        "description": "Strategic marketing solutions to grow your online presence.",
+        "content": "Our digital marketing services help you reach your target audience and achieve your business goals. We develop comprehensive strategies that leverage various digital channels to increase brand awareness, generate leads, and drive conversions. Our data-driven approach ensures that your marketing budget is allocated effectively for maximum ROI.",
+        "features": [
+          "Search engine optimization (SEO)",
+          "Pay-per-click advertising (PPC)",
+          "Social media marketing",
+          "Content marketing",
+          "Email marketing"
+        ]
+      },
+      {
+        "id": "it-consulting",
+        "title": "IT Consulting",
+        "description": "Expert advice on technology strategy and implementation.",
+        "content": "Our IT consulting services provide strategic guidance to help you leverage technology for business growth. We assess your current systems, identify opportunities for improvement, and develop roadmaps for digital transformation. Our consultants bring deep industry knowledge and technical expertise to help you make informed decisions about your technology investments.",
+        "features": [
+          "Technology assessment",
+          "Digital transformation strategy",
+          "IT infrastructure planning",
+          "System integration consulting",
+          "Technology vendor selection"
+        ]
+      }
+    ]
+  }

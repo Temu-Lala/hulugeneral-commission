@@ -1,0 +1,19 @@
+{
+  "title": "Frequently Asked Questions",
+  "description": "Find answers to common questions about our services and processes.",
+  "faqs": [
+    {
+      "question": "Where is Hulu General Commission located?",
+      "answer": "Hulu General Commission is located in Addis Ababa, Legehar, Amhara Bank Building, 1st Floor, Room 112."
+    },
+    {
+      "question": "How does the payment work?",
+      "answer": "When you get a job, you pay 20% of your first salary. For other services, payment is made through agreements."
+    },
+    {
+      "question": "How much commission do you accept?",
+      "answer": "We only take a one-time commission of 20% from your first salary."
+    }
+    ]
+  }
+  

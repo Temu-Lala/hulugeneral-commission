@@ -1,0 +1,60 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "አብርሃም ገብረመድን",
+      "role": "የሶፍትዌር አበልካች",
+      "comment": "ሁሉ ጋር መስራት በጣም ጠቃሚ ነበር። ችሎታችንን ለማሳየት እና ስራ ለማግኘት እንደሚረዳን አረጋግጧል።",
+      "image": "https://example.com/images/abraham.jpg"
+    },
+    {
+      "id": 2,
+      "name": "ሳራ መረኛ",
+      "role": "የሆቴል ሥራ አስኪያጅ",
+      "comment": "ሁሉ የእኛ ንግድ ሥራን በሙሉ ለውጦታል። በእንቅስቃሴ የተቀመጠውን እንዳንደምሰራ ረዳን።",
+      "image": "https://example.com/images/sara.jpg"
+    },
+    {
+      "id": 3,
+      "name": "ዮሐንስ መኩሪያ",
+      "role": "የግል ስራ ሥራ አስኪያጅ",
+      "comment": "የሁሉ ግንኙነት እድል ስለሆነን እጅግ ደስ ብሎኛል።",
+      "image": "https://example.com/images/yohannes.jpg"
+    },
+    {
+      "id": 4,
+      "name": "ሃና አሰፋ",
+      "role": "የአርት እና ግራፊክስ አበልካች",
+      "comment": "የእኔን ስራ በምርጥ ሁኔታ ለይቶ ለማሳየት ይህ መድረክ አስተማማኝ ነበር።",
+      "image": "https://example.com/images/hana.jpg"
+    },
+    {
+      "id": 5,
+      "name": "ዘርማን ጌታቸው",
+      "role": "የቴክኖሎጂ አበልካች",
+      "comment": "የሁሉ አገልግሎት በጣም ጥሩ ነው። የእኔን ዘርፍ የሚጠቅም ብዙ ስራ አግኝቼአለሁ።",
+      "image": "https://example.com/images/zerman.jpg"
+    },
+    {
+      "id": 6,
+      "name": "ተስፋዬ በላይ",
+      "role": "HR ሥራ አስኪያጅ",
+      "comment": "አሁን የሚጠቅም የሰው ኃይል ተቋም የሚያደርገውን ሥራ አስተማማኝ ነበር።",
+      "image": "https://example.com/images/tesfaye.jpg"
+    },
+    {
+      "id": 7,
+      "name": "አቶ ደስታ",
+      "role": "የስራ ፍላጎት የሚያስረክብ",
+      "comment": "የስራ ፍላጎትን ለማሟሟል እና እድሎችን ለማግኘት የሁሉ ሚዲያ የሚስተናፍጥ ነበር።",
+      "image": "https://example.com/images/desta.jpg"
+    },
+    {
+      "id": 8,
+      "name": "ሚስተር ሰላም",
+      "role": "የቤት እና መኪና አከፋፋይ",
+      "comment": "የእኔን ምርት ለመሸጥ በሁሉ የተሳካ መንገድ ነበር።",
+      "image": "https://example.com/images/selam.jpg"
+    }
+  ]
+}
